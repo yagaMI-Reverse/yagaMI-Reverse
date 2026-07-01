@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Ilya&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Supabase&descSize=18&descAlignY=56" alt="Ilya — Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Ilya&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20AI&descSize=18&descAlignY=56" alt="Ilya — Full-Stack Developer" />
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-View_5_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white)](#-featured-projects)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-View_6_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white)](#-featured-projects)
 [![Email](https://img.shields.io/badge/Email-ilaii53617@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilaii53617@gmail.com)
 
 </div>
@@ -13,6 +13,7 @@ I'm **Ilya**, a full-stack web developer who turns ideas into **fast, polished, 
 
 - ⚡ **Frontend** — React · TypeScript · Vite · Tailwind CSS · Framer Motion
 - 🗄️ **Backend** — Supabase (PostgreSQL · Auth · Row Level Security) · Node.js · REST
+- 🐍 **AI / Python** — FastAPI · RAG (retrieval-augmented generation) · SSE streaming · OpenAI
 - 🎨 **Design** — UI/UX, design systems, motion & micro-interactions
 - 🌍 Based in Kazakhstan · open to new opportunities
 
@@ -20,17 +21,18 @@ I'm **Ilya**, a full-stack web developer who turns ideas into **fast, polished, 
 
 ## 🚀 Featured Projects
 
-Five production-deployed apps — each in a **distinct design language**, live on GitHub Pages.
+Six production-deployed apps, live on GitHub Pages — two full-stack (a **Python AI** backend and a **Supabase** one), plus four front-ends each in a **distinct design language**.
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
+| **🤖 DocuChat** | **Full-stack AI** support chatbot — RAG over your docs, answers **streamed** live, source citations, no hallucination, admin panel | **Python · FastAPI** · scikit-learn · React · TS | [🔗 Live](https://yagami-reverse.github.io/docuchat/) · [Code](https://github.com/yagaMI-Reverse/docuchat) |
 | **🟣 PulseBoard** | **Full-stack** SaaS analytics admin — auth, live dashboard & CRUD | React · TS · **Supabase** · Recharts | [🔗 Live](https://yagami-reverse.github.io/pulseboard/) · [Code](https://github.com/yagaMI-Reverse/pulseboard) |
 | **🟢 NeuroDesk** | AI customer-support SaaS landing — glassmorphism + neon | React · TS · Framer Motion | [🔗 Live](https://yagami-reverse.github.io/neurodesk/) · [Code](https://github.com/yagaMI-Reverse/neurodesk) |
 | **⚪ Lumio** | Premium e-commerce — editorial minimalism + bento grid | React · TS · Tailwind | [🔗 Live](https://yagami-reverse.github.io/lumio/) · [Code](https://github.com/yagaMI-Reverse/lumio) |
 | **🟡 Atlas Studio** | Creative agency — bold brutalist typography + motion | React · TS · Framer Motion | [🔗 Live](https://yagami-reverse.github.io/atlas-studio/) · [Code](https://github.com/yagaMI-Reverse/atlas-studio) |
 | **🔵 FinFlow** | Fintech app landing — claymorphism + phone mockups | React · TS · Tailwind | [🔗 Live](https://yagami-reverse.github.io/finflow/) · [Code](https://github.com/yagaMI-Reverse/finflow) |
 
-> 💡 **PulseBoard** is full-stack — sign in with `admin@pulseboard.app` to explore the live dashboard & CRUD.
+> 💡 **DocuChat** & **PulseBoard** are full-stack. DocuChat's Python/FastAPI backend does live RAG + streaming (the API sleeps on free hosting, so the first request may take ~40s to wake). For PulseBoard, sign in with `admin@pulseboard.app` to explore the dashboard & CRUD.
 
 ---
 
@@ -45,6 +47,9 @@ Five production-deployed apps — each in a **distinct design language**, live o
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
