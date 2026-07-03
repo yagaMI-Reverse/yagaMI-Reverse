@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Ilya&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20AI&descSize=18&descAlignY=56" alt="Ilya — Full-Stack Developer" />
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-View_6_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white)](#-featured-projects)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-View_7_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white)](#-featured-projects)
 [![Email](https://img.shields.io/badge/Email-ilaii53617@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilaii53617@gmail.com)
 
 </div>
@@ -21,18 +21,19 @@ I'm **Ilya**, a full-stack web developer who turns ideas into **fast, polished, 
 
 ## 🚀 Featured Projects
 
-Six production-deployed apps, live on GitHub Pages — two full-stack (a **Python AI** backend and a **Supabase** one), plus four front-ends each in a **distinct design language**.
+Seven production-deployed apps — three full-stack (**Python AI**, **Next.js AI SaaS**, **Supabase**), plus four front-ends each in a **distinct design language**.
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
 | **🤖 DocuChat** | **Full-stack AI** support chatbot — RAG over your docs, answers **streamed** live, source citations, no hallucination, admin panel | **Python · FastAPI** · scikit-learn · React · TS | [🔗 Live](https://yagami-reverse.github.io/docuchat/) · [Code](https://github.com/yagaMI-Reverse/docuchat) |
+| **✈️ LeadPilot** | **AI SaaS** — lead-intake assistant: guided chat (state machine), lead scoring, AI summaries, Telegram handoff, dashboard | **Next.js 14 · TypeScript** · Tailwind · Framer Motion | [🔗 Live](https://leadpilot-umber.vercel.app) · [Code](https://github.com/yagaMI-Reverse/leadpilot) |
 | **🟣 PulseBoard** | **Full-stack** SaaS analytics admin — auth, live dashboard & CRUD | React · TS · **Supabase** · Recharts | [🔗 Live](https://yagami-reverse.github.io/pulseboard/) · [Code](https://github.com/yagaMI-Reverse/pulseboard) |
 | **🟢 NeuroDesk** | AI customer-support SaaS landing — glassmorphism + neon | React · TS · Framer Motion | [🔗 Live](https://yagami-reverse.github.io/neurodesk/) · [Code](https://github.com/yagaMI-Reverse/neurodesk) |
 | **⚪ Lumio** | Premium e-commerce — editorial minimalism + bento grid | React · TS · Tailwind | [🔗 Live](https://yagami-reverse.github.io/lumio/) · [Code](https://github.com/yagaMI-Reverse/lumio) |
 | **🟡 Atlas Studio** | Creative agency — bold brutalist typography + motion | React · TS · Framer Motion | [🔗 Live](https://yagami-reverse.github.io/atlas-studio/) · [Code](https://github.com/yagaMI-Reverse/atlas-studio) |
 | **🔵 FinFlow** | Fintech app landing — claymorphism + phone mockups | React · TS · Tailwind | [🔗 Live](https://yagami-reverse.github.io/finflow/) · [Code](https://github.com/yagaMI-Reverse/finflow) |
 
-> 💡 **DocuChat** & **PulseBoard** are full-stack. DocuChat's Python/FastAPI backend does live RAG + streaming (the API sleeps on free hosting, so the first request may take ~40s to wake). For PulseBoard, sign in with `admin@pulseboard.app` to explore the dashboard & CRUD.
+> 💡 **DocuChat**, **LeadPilot** & **PulseBoard** are full-stack with live backends. Try them: ask DocuChat a question (its free-tier API may take ~40s to wake), finish LeadPilot's chat and watch your lead hit the dashboard, or sign in to PulseBoard with `admin@pulseboard.app`.
 
 ---
 
@@ -41,6 +42,7 @@ Six production-deployed apps, live on GitHub Pages — two full-stack (a **Pytho
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
