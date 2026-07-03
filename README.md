@@ -25,7 +25,7 @@ Seven production-deployed apps — three full-stack (**Python AI**, **Next.js AI
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| **🤖 DocuChat** | **Full-stack AI** support chatbot — RAG over your docs, answers **streamed** live, source citations, no hallucination, admin panel | **Python · FastAPI** · scikit-learn · React · TS | [🔗 Live](https://yagami-reverse.github.io/docuchat/) · [Code](https://github.com/yagaMI-Reverse/docuchat) |
+| **🤖 DocuChat** | **Full-stack AI** support chatbot — RAG over your docs, answers **streamed** live, source citations, no hallucination, admin panel, **Telegram twin** | **Python · FastAPI** · scikit-learn · React · TS | [🔗 Live](https://yagami-reverse.github.io/docuchat/) · [🤖 TG bot](https://t.me/docuchat_yagami_bot) · [Code](https://github.com/yagaMI-Reverse/docuchat) |
 | **✈️ LeadPilot** | **AI SaaS** — lead-intake assistant: guided chat (state machine), lead scoring, AI summaries, Telegram handoff, dashboard | **Next.js 14 · TypeScript** · Tailwind · Framer Motion | [🔗 Live](https://leadpilot-umber.vercel.app) · [Code](https://github.com/yagaMI-Reverse/leadpilot) |
 | **🟣 PulseBoard** | **Full-stack** SaaS analytics admin — auth, live dashboard & CRUD | React · TS · **Supabase** · Recharts | [🔗 Live](https://yagami-reverse.github.io/pulseboard/) · [Code](https://github.com/yagaMI-Reverse/pulseboard) |
 | **🟢 NeuroDesk** | AI customer-support SaaS landing — glassmorphism + neon | React · TS · Framer Motion | [🔗 Live](https://yagami-reverse.github.io/neurodesk/) · [Code](https://github.com/yagaMI-Reverse/neurodesk) |
