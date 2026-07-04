@@ -13,7 +13,7 @@ I'm **Ilya**, a full-stack web developer who turns ideas into **fast, polished, 
 
 - ⚡ **Frontend** — React · TypeScript · Vite · Tailwind CSS · Framer Motion
 - 🗄️ **Backend** — Supabase (PostgreSQL · Auth · Row Level Security) · Node.js · REST
-- 🐍 **AI / Python** — FastAPI · RAG (retrieval-augmented generation) · SSE streaming · OpenAI
+- 🐍 **AI / Python** — FastAPI · RAG with vector search (pgvector) · voice AI agents (Vapi) · Telegram bots · OpenAI
 - 🎨 **Design** — UI/UX, design systems, motion & micro-interactions
 - 🌍 Based in Kazakhstan · open to new opportunities
 
@@ -25,8 +25,8 @@ Seven production-deployed apps — three full-stack (**Python AI**, **Next.js AI
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| **🤖 DocuChat** | **Full-stack AI** support chatbot — RAG over your docs, answers **streamed** live, source citations, no hallucination, admin panel, **Telegram twin** | **Python · FastAPI** · scikit-learn · React · TS | [🔗 Live](https://yagami-reverse.github.io/docuchat/) · [🤖 TG bot](https://t.me/docuchat_yagami_bot) · [Code](https://github.com/yagaMI-Reverse/docuchat) |
-| **✈️ LeadPilot** | **AI SaaS** — lead-intake assistant: guided chat (state machine), lead scoring, AI summaries, Telegram handoff, dashboard | **Next.js 14 · TypeScript** · Tailwind · Framer Motion | [🔗 Live](https://leadpilot-umber.vercel.app) · [Code](https://github.com/yagaMI-Reverse/leadpilot) |
+| **🤖 DocuChat** | **Full-stack AI** support chatbot — RAG with **vector search** (pgvector), streamed answers, source citations, no hallucination, admin panel, **Telegram twin** | **Python · FastAPI** · pgvector · React · TS | [🔗 Live](https://yagami-reverse.github.io/docuchat/) · [🤖 TG bot](https://t.me/docuchat_yagami_bot) · [Code](https://github.com/yagaMI-Reverse/docuchat) |
+| **✈️ LeadPilot** | **AI SaaS** — lead-intake assistant with **chat + voice AI agent**, lead scoring, AI summaries, subscription checkout, Telegram handoff, dashboard | **Next.js 14 · TypeScript** · Vapi · Tailwind | [🔗 Live](https://leadpilot-umber.vercel.app) · [Code](https://github.com/yagaMI-Reverse/leadpilot) |
 | **🟣 PulseBoard** | **Full-stack** SaaS analytics admin — auth, live dashboard & CRUD | React · TS · **Supabase** · Recharts | [🔗 Live](https://yagami-reverse.github.io/pulseboard/) · [Code](https://github.com/yagaMI-Reverse/pulseboard) |
 | **🟢 NeuroDesk** | AI customer-support SaaS landing — glassmorphism + neon | React · TS · Framer Motion | [🔗 Live](https://yagami-reverse.github.io/neurodesk/) · [Code](https://github.com/yagaMI-Reverse/neurodesk) |
 | **⚪ Lumio** | Premium e-commerce — editorial minimalism + bento grid | React · TS · Tailwind | [🔗 Live](https://yagami-reverse.github.io/lumio/) · [Code](https://github.com/yagaMI-Reverse/lumio) |
