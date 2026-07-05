@@ -69,8 +69,11 @@ Eight production-deployed apps — four full-stack (**Python AI**, **Next.js AI 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yagaMI-Reverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagaMI-Reverse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yagaMI-Reverse&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="92%" />
+
+<br/>
+
+<img src="https://ghchart.rshah.org/2563eb/yagaMI-Reverse" alt="Contribution heatmap" width="92%" />
 
 <br/>
 
